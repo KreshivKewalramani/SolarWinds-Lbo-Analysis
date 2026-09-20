@@ -138,25 +138,6 @@ For LBO analysis, focus on:
 ✅ Timing (exit) matters enormously in PE returns  
 ✅ Strong operational execution (margin expansion) is key to success  
 
-## How to Use This Analysis
-
-### For Learning:
-- Understand LBO mechanics (sources & uses, debt schedule)
-- Learn return calculation (MOIC vs. IRR)
-- See how leverage amplifies returns
-- Study sensitivity to growth/margin assumptions
-
-### For BoA Interviews:
-- Reference this deal as proof of LBO modeling capability
-- Explain debt structure and paydown mechanics
-- Discuss what drives PE returns (growth, margins, leverage, exit)
-- Show comfort with high-leverage financing
-
-### For Comparison:
-- Contrast LBO returns vs. strategic M&A (LinkedIn deal)
-- Discuss risk/reward tradeoff in leveraged deals
-- Explain when LBOs make sense vs. strategic acquisitions
-
 ## Data Sources
 
 - SolarWinds S-1 filing (pre-IPO prospectus, 2015)
