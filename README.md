@@ -202,28 +202,3 @@ For LBO analysis, focus on:
 - Public financial reports post-IPO
 
 All data sourced from public filings and news reports.
-
-## Files in This Project
-
-```
-solarwinds-lbo-analysis/
-├── README.md                    # This file
-├── LBO-ANALYSIS.md             # Comprehensive 2,500+ word analysis
-└── solarwinds-lbo-model.xlsx   # Excel workbook with 5 sheets
-```
-
-## Next Steps
-
-After understanding this LBO:
-- Review the detailed analysis in `LBO-ANALYSIS.md`
-- Study the Excel model formulas and assumptions
-- Compare to other PE deals (Hilton, Dell, etc.)
-- Practice building LBO models for other companies
-
----
-
-**Project Status:** Complete ✅  
-**Built:** September 2026  
-**For:** Bank of America Investment Banking Application  
-
-*This analysis is for educational purposes and demonstrates leveraged buyout analysis methodology.*
