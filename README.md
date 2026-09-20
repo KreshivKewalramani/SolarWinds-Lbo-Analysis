@@ -121,43 +121,6 @@ Breakdown:
 
 **Total = 12.0x** (with leverage as amplifier)
 
-## LBO Lessons for Investment Banking
-
-### Why BoA Cares About LBOs
-
-1. **PE is 40%+ of BoA's M&A Business**
-   - BoA is #1 debt arranger for LBOs
-   - Financing fees are large revenue source
-   - Deal teams need LBO modeling expertise
-
-2. **Debt Structure & Sizing**
-   - Determining leverage capacity is critical
-   - Must model debt paydown from free cash flow
-   - Covenant compliance (max leverage ratios)
-
-3. **Return Analysis for Sponsors**
-   - PE sponsors evaluate deals on IRR/MOIC
-   - BoA pitch books must show return potential
-   - Deal team needs to argue leverage case to sponsors
-
-4. **Risk Assessment**
-   - High leverage (15.8x entry) requires strong cash generation
-   - What if revenues miss growth targets?
-   - What if EBITDA margins don't expand?
-   - Sensitivity/scenario analysis critical
-
-## How This Compares to Strategic M&A
-
-| Aspect | LBO (SolarWinds) | Strategic M&A (LinkedIn) |
-|--------|------------------|-------------------------|
-| **Buyer Type** | Private Equity | Strategic Buyer |
-| **Financing** | 64% debt, 36% equity | All cash / equity |
-| **Focus** | Returns (IRR/MOIC) | Strategic value |
-| **Exit Timeline** | 5-7 years (planned) | Indefinite |
-| **Key Metric** | IRR / MOIC | Fair value / synergies |
-| **Leverage** | Very high (15.8x entry) | Minimal (existing debt) |
-| **Return Source** | Growth + multiple + leverage | Synergies + integration |
-
 ## Valuation Methods Summary
 
 For LBO analysis, focus on:
